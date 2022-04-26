@@ -10,7 +10,27 @@ body{
 {
 text-align: left;
 padding-left: 10%;
+background: var(--top, white);
 
+}
+.fa-solid fa-phone{
+  width:15px;
+  height:15px;
+}
+a {
+  text-decoration: none !important;
+}
+.fb-icon:hover{
+  color:#ff0000;
+  tansition:2s;
+}
+.insta-icon:hover{
+  color:#ff0000;
+  tansition:2s;
+}
+.twit-icon:hover{
+  color:#ff0000;
+  tansition:2s;
 }
 .slider{
   width: 100%;
